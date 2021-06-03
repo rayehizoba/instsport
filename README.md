@@ -2,10 +2,10 @@
 
 A trivia sports app made with Flutter.
 
-## Main page
+### Main page
 <img src="/docs/Main page.png" alt="Main page" height="300">
 
-## Gameplay
+### Gameplay
 <img src="/docs/Gameplay.png" alt="Gameplay" height="300">
 
 ## Getting Started
