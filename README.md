@@ -1,6 +1,9 @@
 # instsport
 
-A new Flutter project.
+A trivia sports app made with Flutter.
+
+## Screen Shots
+<img src="/docs/Gameplay.png" alt="Gameplay" height="300">
 
 ## Getting Started
 
