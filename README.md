@@ -2,6 +2,8 @@
 
 A trivia sports app made with Flutter.
 
+https://docs.google.com/document/d/19o2-g4rQIK-bq8Wn9rgKJhgDCua6lXtmkzjm0m9dDBQ/edit
+
 **App name:** Inst Sport
 
 **Technical specifications:**
@@ -20,7 +22,7 @@ On the screen, the scoreboard with the best scores is divided into 3 categories 
 - The "Play" button (takes you to the "Gameplay" screen)
 - Settings button (takes you to the Settings screen)
 
-<img src="/docs/Main page.png" alt="Main page" height="300">
+<img src="/docs/Main page.png" alt="Main page" height="150">
 
 
 **“Settings" screen:**
@@ -46,7 +48,7 @@ from 5 to 10 on the field 6 types of cards, cards are static
 From 15 points and above, the cards begin to move around the board within the confines of the screen (every 5 points more the cards begin to move faster);
 The game ends when the timer reaches 0.
 
-<img src="/docs/Gameplay.png" alt="Gameplay" height="300">
+<img src="/docs/Gameplay.png" alt="Gameplay" height="150">
 
 
 **End of Game screen:**
