@@ -1,6 +1,8 @@
 # Draggable Interaction
 
-A simple drag and drop interaction where draggable widgets connected with target widgets using a smooth line. 
+A simple drag and drop interaction where draggable widgets are connected with target widgets using smooth neon lines.
+
+This effect is achieved by using a combination of `Draggable`, `DragTarget` and `CustomPaint`. 
 
 <img src="/docs/20210604_234933.gif" alt="drag and drop interaction" style="min-width: 200px; max-width: 100%;">
 
